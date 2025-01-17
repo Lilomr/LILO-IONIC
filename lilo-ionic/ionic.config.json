@@ -1,0 +1,7 @@
+{
+  "name": "lilo.ionic ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
